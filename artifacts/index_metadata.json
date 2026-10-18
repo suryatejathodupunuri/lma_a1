@@ -1,0 +1,17 @@
+{
+  "pdf_sha256": "64012c21460d3aee0f5c2c0d1048811a4dd4b4aebd03284ee4706a6a1f8e630e",
+  "corpus_sha256": "f2936ca2ce950fe31ebc8d3616ee03a02ea6cf1bb55e8183e8f5cde3cb454a09",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "model_commit": null,
+  "chunk_tokens": 220,
+  "overlap_tokens": 40,
+  "normalized": true,
+  "versions": {
+    "torch": "2.14.1+cpu",
+    "sentence-transformers": "5.7.0",
+    "transformers": "5.20.1",
+    "PyMuPDF": "1.28.2",
+    "numpy": "2.5.4",
+    "pandas": "3.0.6"
+  }
+}

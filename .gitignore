@@ -1,0 +1,10 @@
+.venv/
+.cache/
+__pycache__/
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+
+# Exploratory output; final experiment results are included.
+artifacts/query_discovery.json

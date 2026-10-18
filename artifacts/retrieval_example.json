@@ -1,0 +1,121 @@
+{
+  "query": "Does pushing or gathering Invaders generate Fear?",
+  "corpus_sha256": "f2936ca2ce950fe31ebc8d3616ee03a02ea6cf1bb55e8183e8f5cde3cb454a09",
+  "candidates": [
+    {
+      "baseline_rank": 1,
+      "chunk_id": "chunk_0132",
+      "source": "spirit_island_rulebook.pdf",
+      "page": 30,
+      "start_char": 2116,
+      "end_char": 2942,
+      "text": "from turn to turn. [p. 13] Escalation Effect ( ): Something an Adversary does each time Exploring reveals an Invader Card with an Adversary icon on it. This icon appears only on Stage II cards. [p. 10, 22] Explore: An Invader Action. Adds Explorers to accessible lands. [p. 10] Explorer ( ): A type of Invader piece. Does 1 Damage, has 1 Health. [p. 15] Fear: Fright done to Invaders. Advances Fear Markers, earning Fear Cards. [p. 12]\n\nFear Card: A card from the Fear Deck, earned by doing Fear to the Invaders. The Terror Level dividers are not Fear Cards. [p. 9, 12] Fear Effect: Anything done by an earned Fear Card. [p. 12, 18] Forget a Power Card: Permanently lose a Power Card from your hand, discard pile, or in play. Put it in the discard for its deck, or out of the game if it’s Unique to your Spirit. [p. 18] Gain a",
+      "token_count": 220,
+      "cosine_score": 0.5993823409080505
+    },
+    {
+      "baseline_rank": 2,
+      "chunk_id": "chunk_0139",
+      "source": "spirit_island_rulebook.pdf",
+      "page": 31,
+      "start_char": 1446,
+      "end_char": 2313,
+      "text": "not cause Fear. [p. 18] Repeat: Use the text effects of a Power again. Doesn’t grant additional Elements. Repeats never chain. [p. 19] Replace: Remove one piece and put another piece in its place. [p. 18] Sacred Site ( ): A land where a Spirit has 2 or more Presence. [p. 13] Scenario: A situation providing alternate rules/victory conditions. Boosts difficulty and changes how the game plays. [p. 23] Target: The land or Spirit a Power affects. [p. 16] Terrain: Jungle, Mountain, Sands, or Wetland. Each land has one terrain. [p. 13] Terror Level: A number from 1 - 3, representing how frightened the Invaders are. Sets the current Victory Condition. [p. 12] Threshold Effects: Part of a Power’s effects which depend on having certain Elements that turn. [p. 14] Town ( ): A type of Invader piece. Does 2 Damage, has 2 Health. Destroying a Town causes 1 Fear. [p. 15",
+      "token_count": 220,
+      "cosine_score": 0.5511823892593384
+    },
+    {
+      "baseline_rank": 3,
+      "chunk_id": "chunk_0066",
+      "source": "spirit_island_rulebook.pdf",
+      "page": 12,
+      "start_char": 2499,
+      "end_char": 2915,
+      "text": ". Like Powers, effects of Fear Cards last for the current turn only, unless they change the board in some way. After each Fear Card is resolved, (5) move it to the Fear Discard Space.\n\nWhen you reveal a new Terror Level divider, the new Terror Level and victory condition take effect immediately, so you might instantly win!\n\nTerror Level Space on the Invader Board.\n\nWIN CONDITIONS\n\nGAME CONCEPTS\n\n12\n\n1\n\n2\n\n3\n\n4\n\n5",
+      "token_count": 89,
+      "cosine_score": 0.517540693283081
+    },
+    {
+      "baseline_rank": 4,
+      "chunk_id": "chunk_0075",
+      "source": "spirit_island_rulebook.pdf",
+      "page": 15,
+      "start_char": 860,
+      "end_char": 1901,
+      "text": "Invaders is not limited by the supply of pieces; in the unlikely case that you run out, use Energy Markers as “1 more / 3 more of this piece” markers.\n\nExplorers represent Invaders willing to travel into uncharted wilderness: mapping expeditions, the very boldest homesteaders, etc. They have 1 Health and deal 1 Damage during Ravage. Explorers are not themselves a source when Invaders Explore.\n\nTowns represent homesteads and small frontier settlements. They have 2 Health and deal 2 Damage during Ravage. Towns act as a source of Explorers when Invaders Explore.\n\nCities are the largest and most pernicious type of Invader piece. They have 3 Health and deal 3 Damage during Ravage. Cities act as a source of Explorers when Invaders Explore.\n\nDestroying Towns and Cities affects the Invaders’ morale. Whenever a Town is destroyed, it generates 1 Fear. Whenever a City is destroyed, it generates 2 Fear (see Fear and Terror, page 12).\n\nBLIGHT\n\nInvaders slowly but inexorably Blight the land. A certain amount of Blight is normal in nature -",
+      "token_count": 220,
+      "cosine_score": 0.5165679454803467
+    },
+    {
+      "baseline_rank": 5,
+      "chunk_id": "chunk_0103",
+      "source": "spirit_island_rulebook.pdf",
+      "page": 22,
+      "start_char": 901,
+      "end_char": 1962,
+      "text": "Cards (see page 10). Some Adversaries also include additional loss conditions. These two rules are the ‘base level’ of an Adversary, providing a small difficulty boost. From there, each Adversary offers multiple increased difficulty levels, indicated by the number on the left. All listed game effects are cumulative: if you’re fighting vs. Level 3, you also use the effects from Level 1 and Level 2. Some Adversaries modify the Invader Actions. There are Reminder Tiles to put below the Invader Action spaces on the Invader Board to remind you that the rules for those Actions are modified. For a full list of each Adversary’s difficulty rating, see the chart on page 28.\n\nFEAR CARDS As the difficulty increases, reaching higher Terror Levels becomes harder. Each Level shows how many Fear Cards to use and how many cards go in the top/middle/bottom of the Fear Deck.\n\nTHE KINGDOM OF BRANDENBURG-PRUSSIA\n\n• Excellent first Adversary with few new rules; most of the changes occur during game Setup. • Speed is the name of the game: the Invaders do everything at",
+      "token_count": 220,
+      "cosine_score": 0.5006120800971985
+    },
+    {
+      "baseline_rank": 6,
+      "chunk_id": "chunk_0141",
+      "source": "spirit_island_rulebook.pdf",
+      "page": 32,
+      "start_char": 0,
+      "end_char": 895,
+      "text": "ICONOGRAPHY\n\nExplorer: A type of Invader. Does 1 Damage, has 1 Health.\n\nTown: A type of Invader. Does 2 Damage, has 2 Health. 1 Fear when destroyed.\n\nCity: A type of Invader. Does 3 Damage, has 3 Health. 2 Fear when destroyed.\n\nDahan: A clan/village of local Islanders. Does 2 Damage, has 2 Health.\n\nBlight: Environmental/spiritual harm to the Island.\n\nFear: Fright done to Invaders. Advances Fear Markers, earning Fear Cards.\n\nPresence: A Spirit’s Presence disk - where they live in the land.\n\nSacred Site: A land where a Spirit has 2 or more Presence.\n\nFast Power: Resolve its effects before the Invader Phase.\n\nSlow Power: Resolve its effects after the Invader Phase.\n\nRefers to both Explorers and Towns. “Push 2 / ” can Push 2 , 1 and 1 , or 2 .\n\nRefers to both Town and Cities. “A land with / ” means a land with at least 1 , at least 1 , or both.\n\nTarget is any one land.\n\nTarget is a land",
+      "token_count": 220,
+      "cosine_score": 0.48728904128074646
+    },
+    {
+      "baseline_rank": 7,
+      "chunk_id": "chunk_0054",
+      "source": "spirit_island_rulebook.pdf",
+      "page": 9,
+      "start_char": 2283,
+      "end_char": 3344,
+      "text": ", due to Defend Powers), but not if the Ravage Action has been skipped or stopped from happening altogether.\n\nSpirit Presence does not fight back as Invaders do not directly attack the Spirits.\n\nFEAR EARNED THROUGH\n\nFEAR EFFECTS Most Fear effects do not cause more Fear. They remove Invaders rather than Damaging\n\nor destroying them. However, there are exceptions. If you do earn a new Fear Card this\n\nway, put it at the bottom of the stock of cards\n\nyou’re currently resolving.\n\nEACH PLAYER Many Fear effects tell “each player” to do something. Players are restricted only by the card’s instructions in which lands they affect; the effect represents activity by the Invaders\n\nor Dahan, not the Spirits. First one player follows the instructions fully, then the next\n\nplayer does, etc.\n\nLAND ORDER? If it makes a difference in what order you resolve\n\nthe lands for a given Action, the players choose.\n\nEFFECTS OF BLIGHT CASCADING: Whenever you add Blight to a land,\n\nif that land already had Blight, you must also add additional Blight to one adjacent land. (If",
+      "token_count": 220,
+      "cosine_score": 0.4855937659740448
+    },
+    {
+      "baseline_rank": 8,
+      "chunk_id": "chunk_0074",
+      "source": "spirit_island_rulebook.pdf",
+      "page": 15,
+      "start_char": 0,
+      "end_char": 1051,
+      "text": "INVADERS\n\nThe Invaders have begun to colonize your Island! While not specifically aiming to exterminate you, their colonization and “taming” of the land has upset the natural balance. The goal of the game is to drive off the Invaders by meeting the victory conditions of the current Terror Level. As more Invaders learn to Fear you, the victory conditions will get easier!\n\nInvaders in a land do not automatically harm Spirit Presence or Dahan there. Invaders harm things only when Ravaging (see Ravage, page 9). Each type of Invader has a specified Health. To destroy an Invader, you must deal Damage that meets or exceeds its Health in one turn. Some effects also destroy Invaders regardless of Damage or Health.\n\nThere are three types of Invaders: Explorers, Towns, and Cities. A land containing any number of these is “a land with Invaders”. The number of Invaders is not limited by the supply of pieces; in the unlikely case that you run out, use Energy Markers as “1 more / 3 more of this piece” markers.\n\nExplorers represent Invaders willing to",
+      "token_count": 220,
+      "cosine_score": 0.47997042536735535
+    },
+    {
+      "baseline_rank": 9,
+      "chunk_id": "chunk_0052",
+      "source": "spirit_island_rulebook.pdf",
+      "page": 9,
+      "start_char": 741,
+      "end_char": 1655,
+      "text": "was earned. Fear effects last only for the current turn.\n\n3. INVADER ACTIONS The Invader Board has three Action Spaces: Ravage, Build, and Explore. The Invader Card in an Action Space determines which lands will be affected by that Action. (If there is no Invader Card in a space, no action is taken.)\n\n3a. RAVAGE Look at the Invader Card in the Ravage Action Space on the Invader Board (if any): the Invaders Ravage in each land of the shown type only. First, Invaders deal Damage simultaneously to the land and Dahan. Then, any surviving Dahan fight back.\n\nWhenever there are Invaders in the shown lands, Invaders deal Damage: 1 per Explorer, 2 per Town, and 3 per City. Reduce the total Damage by any Defend powers played (p. 18), then simultaneously:\n\n• Invaders Damage the Land: If 2 or more Damage is dealt, add a Blight to the land. (See sidebar.) This only happens once, no matter how much Damage is dealt.",
+      "token_count": 220,
+      "cosine_score": 0.4748435914516449
+    },
+    {
+      "baseline_rank": 10,
+      "chunk_id": "chunk_0065",
+      "source": "spirit_island_rulebook.pdf",
+      "page": 12,
+      "start_char": 1651,
+      "end_char": 2672,
+      "text": "DISCARD\n\nPER PLAYER\n\nGENERATED\n\nFEAR\n\nSPIRIT PHASE\n\nGrowth Gain Energy Choose Powers\n\nINVADER PHASE\n\nBlighted Island\n\nFear Ravage\n\nBuild Explore Advance Invader Cards\n\nTIME PASSES\n\nDESTROYING A GENERATES 1 DESTROYING A GENERATES 2\n\nFEAR DECK\n\nWHEN REVEALED\n\nEARNED FEAR CARDS\n\nFEAR DISCARD\n\nVICTORY\n\nFEAR DECK\n\nWHEN REVEALED\n\n(1) When all of the Fear Markers have advanced, (2) move the top card of the Fear Deck face-down into the Earned Fear Cards area. If this reveals a Terror Level divider, move it to cover the old Terror Level (which starts at Level 1, preprinted on the board). (3) Move the Fear Markers back to the Fear Pool; if you have leftover Fear after earning a card, move that many Fear Markers to the Generated Fear area.\n\n(4) Cards in the Earned Fear Cards Space are flipped and resolved during the next Invader Phase (see page 9). Like Powers, effects of Fear Cards last for the current turn only, unless they change the board in some way. After each Fear Card is resolved, (5) move it to the Fear Disc",
+      "token_count": 220,
+      "cosine_score": 0.4566788375377655
+    }
+  ],
+  "timings": {
+    "query_embedding_ms": 7.649195962585509,
+    "vector_search_and_results_ms": 0.4727699561044574,
+    "retrieval_total_ms": 8.121965918689966
+  }
+}

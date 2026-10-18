@@ -1,0 +1,4 @@
+case_id,query,critical_chunk,page,baseline_rank,reranked_rank
+F1,"When I choose not to resolve a card, do I lose its Elements and get a refund?",chunk_0084,17,4,2
+F2,Can I forget the Major Power I just gained instead of an old card?,chunk_0090,18,6,2
+F3,"If I increase a Slow Power to Fast, may I use it in both phases?",chunk_0086,17,5,1

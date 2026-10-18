@@ -1,0 +1,4 @@
+case_id,baseline_finding,reranked_finding,failure_type,query,critical_chunk,page,baseline_rank,reranked_rank
+F1,Partial answer: Elements retained; Energy refund not established.,Correct complete answer: no refund; Elements retained.,Missing essential clause / partial abstention,"When I choose not to resolve a card, do I lose its Elements and get a refund?",chunk_0084,17,4,2
+F2,Abstains on whether the newly gained Major Power can be Forgotten.,Correct answer: the newly chosen Major Power can be Forgotten.,Missing exception / abstention,Can I forget the Major Power I just gained instead of an old card?,chunk_0090,18,6,2
+F3,Abstains on using a Slow Power made Fast in both phases.,"Correct answer: Fast Phase only, not both phases.",Missing constraint / abstention,"If I increase a Slow Power to Fast, may I use it in both phases?",chunk_0086,17,5,1
